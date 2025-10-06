@@ -35,7 +35,6 @@
 
 ---
 
-## Immagini di riferimento
 
 ### Minacce e danni nei sistemi FA:
 ![Minacce e danni](../img/page_1.png)  
